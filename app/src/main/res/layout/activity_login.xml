@@ -34,7 +34,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:hint="Password"
-        android:inputType="number"
+        android:inputType="textWebEmailAddress"
         android:textSize="20sp"
         android:textColor="@android:color/white"
         android:textColorHint="@color/colorPrimaryDark"
